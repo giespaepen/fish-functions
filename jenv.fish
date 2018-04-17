@@ -1,3 +1,4 @@
+#!/usr/local/bin/fish
 set PATH $HOME/.jenv/shims $PATH
 command jenv rehash 2>/dev/null
 function jenv
